@@ -4,7 +4,7 @@ namespace Src\BaseProject\Entity\Domian\Repository;
 
 use Src\BaseProject\Entity\Domian\DomainEntity as Entity;
 
-interface EntityInterface
+interface EntityRepository
 {
     /**
      * Your methods, "CRUD" example
